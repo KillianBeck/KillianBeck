@@ -17,10 +17,10 @@
 #### Programmiersprachen
 
 - Python 🐍 (*****)
-- Elixir 💧 (***)
 - Java ♨️ (***)
+- Elixir 💧 (***)
 - JS 📃 (**)
-- C# #️⃣ (*) 
+- C# #️⃣ (**) 
 - C  (**)
 
 #### IT-Knowledge
