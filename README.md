@@ -2,7 +2,7 @@
 
 ## Meine Hauptprojekte
 
-- [KiwiSpaceONE](https://github.com/Varesine/KiwiSpaceONE) - Eine selbstgebaute, modulare, Cloud-Lösung für meinen Uni Jahrgang
+- [KiwiSpaceONE](https://github.com/Varesine/KiwiSpaceONE) - Eine selbstgebaute, modulare, Cloud-Lösung für meinen Uni Jahrgang (Noch als Private Repository)
 - [Seeker](https://github.com/KillianBeck/Seeker) - Eine in C geschriebene Terminal-Anwendung zur rekursiven Dateiinhalts-Suche
 - [sizeof](https://github.com/Varesine/sizeof) - Kommandozeilen-Werkzeug zur Analyse und anzeige von speicherverbrauch unter Linux und MacOS
 - [kiwithon](https://github.com/KillianBeck/kiwithon) - Ein fork von CPython der für die Anwendung KiwiSpaceONE Optimiert wurde
