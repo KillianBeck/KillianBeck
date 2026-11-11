@@ -6,7 +6,6 @@
 - [Seeker](https://github.com/KillianBeck/Seeker) - Eine in C geschriebene Terminal-Anwendung zur rekursiven Dateiinhalts-Suche
 - [sizeof](https://github.com/Varesine/sizeof) - Kommandozeilen-Werkzeug zur Analyse und anzeige von speicherverbrauch unter Linux und MacOS
 - [kiwithon](https://github.com/KillianBeck/kiwithon) - Ein fork von CPython der für die Anwendung KiwiSpaceONE Optimiert wurde
-- 
 
 ### Über mich
 
